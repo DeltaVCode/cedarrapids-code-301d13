@@ -7,6 +7,7 @@
 ## Course Prerequisites
 
 - Code 102
+
 - Code 201
 
 > Students with previous relevant or equivalent experience can test out of this requirement in their application.
